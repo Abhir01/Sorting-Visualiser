@@ -1,10 +1,3 @@
-/*
-    *****************
-    DONE BY:-   TUMMALA KETHAN
-    
-    *****************
-*/
-
 function Selection_sort()
 {
     //Setting Time complexities
@@ -59,7 +52,7 @@ function Selection_sort()
     enable_buttons();
 }
 
-/*
+
     *****************
     DONE BY:-   TUMMALA KETHAN
     
